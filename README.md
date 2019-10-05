@@ -1,4 +1,5 @@
 # javascript-macro
 
 re-upload
-end in 2016
+
+abandoned in 2016
